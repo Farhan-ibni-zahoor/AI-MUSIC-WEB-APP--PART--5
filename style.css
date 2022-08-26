@@ -1,0 +1,27 @@
+.heading{
+    font-size: 15px;
+    font-style: italic;
+    width: 100%;
+    margin: 10px;
+}
+.note{
+    
+    color: black;
+}
+body{
+    background-size: cover;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPtuU2zPOlet3NB7Koq6LBJTYliLuN_ji5txhGm_l5NJTS-WCuNG7PLbYUzCa1aHX86DY&usqp=CAU)
+}
+#song{
+    font-size: 25px;
+    background-color: yellow;
+    width: 20%;
+    font-style: oblique;
+}
+
+canvas{
+    background-color: #000000;
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+}
